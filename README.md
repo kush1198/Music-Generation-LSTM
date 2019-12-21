@@ -9,4 +9,4 @@
 6. Dense
 
 ## Generated audio
-![link](https://github.com/kush1198/Music-Generation-LSTM/tree/master/music%20LSTM/generated_music_output)
+[link](https://github.com/kush1198/Music-Generation-LSTM/tree/master/music%20LSTM/generated_music_output)
