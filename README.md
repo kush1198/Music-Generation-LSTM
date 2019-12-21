@@ -8,5 +8,7 @@
 5. Self Head Attention
 6. Dense
 
+## Piano Music Generator Notebook
+[Notebook](https://github.com/kush1198/Music-Generation-LSTM/blob/master/music%20LSTM/Piano_Music_Genration.ipynb)
 ## Generated audio
-[link](https://github.com/kush1198/Music-Generation-LSTM/tree/master/music%20LSTM/generated_music_output)
+[generated music](https://github.com/kush1198/Music-Generation-LSTM/tree/master/music%20LSTM/generated_music_output)
